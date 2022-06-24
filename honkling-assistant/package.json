@@ -13,7 +13,7 @@
     "osx": "^0.1.0",
     "osx-vol": "^2.0.0",
     "ps-list": "^6.0.0",
-    "visualizer.js": "^3.0.0",
+    "visualizer.js": "^4.0.0",
     "youtube-search": "^1.1.3"
   },
   "devDependencies": {
